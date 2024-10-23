@@ -3,7 +3,7 @@ I am currently studying computer science.
 
 I would love to talk with others and learn from their experiences!
 
-Please contact me at escante.ricardo06@gmail.com
+Please contact me at escalanate.ricardo06@gmail.com
 
 
 <!---
