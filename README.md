@@ -9,18 +9,16 @@
   <img height="400" src="https://media.giphy.com/media/eEj9zBa02JsVOPpDvW/giphy.gif" />
 </div>
 
----
-
 ### 💬 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-escalante-687a2b31a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn logo" />
   </a>
-  <img width="30" /> <!-- spacer -->
+  <img width="30" />
   <a href="mailto:escalante.ricardo06@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="Gmail logo" />
   </a>
-  <img width="30" /> <!-- spacer -->
+  <img width="30" />
   <a href="https://discordapp.com/users/dr_penguino" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="Discord logo" />
   </a>
@@ -34,7 +32,6 @@
 - **👻 Snap Academies 2025 Alumni @ Snap Inc.**  
 - **🎮 Gamer & Tech Enthusiast**  
 - **⚡ Fun fact: I love penguins 🐧**
-
 
 ---
 
@@ -67,7 +64,4 @@
 ### 🚀 Featured Projects
 - 🍲 **[ShelfHelp](https://gverango.github.io/snapchat-final-showcase/)** – Prototype feature for Snapchat that helps people struggling with food insecurity find local food resources  
 - 📷 **[Guess That Photo](https://ricardo-escalante06.github.io/Guess-That-Photo/)** – Web game that quizzes users on the date and location of a photograph  
-<!--
-- 🤖 **[AI Therapist Research](#)** – Exploring the role of AI in mental health care  
--->
 
