@@ -62,6 +62,6 @@
 ---
 
 ### 🚀 Featured Projects
-- 🍲 **[ShelfHelp](https://gverango.github.io/snapchat-final-showcase/)** – Prototype feature for Snapchat that helps people struggling with food insecurity find local food resources  
-- 📷 **[Guess That Photo](https://ricardo-escalante06.github.io/Guess-That-Photo/)** – Web game that quizzes users on the date and location of a photograph  
+- 🍲 **[ShelfHelp](https://github.com/gverango/snapchat-final-showcase)** – Prototype feature for Snapchat that helps people struggling with food insecurity find local food resources  
+- 📷 **[Guess That Photo](https://github.com/ricardo-escalante06/Guess-That-Photo)** – Web game that quizzes users on the date and location of a photograph  
 
