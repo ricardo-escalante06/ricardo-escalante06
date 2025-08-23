@@ -29,13 +29,12 @@
 ---
 
 ### 🐧 About Me  
-<p align="left" style="font-size:16px">
-- 🎓 CS Transfer Student @ El Camino College (Transferring Fall 2026)  
-- 💻 SWE @ DermaMatch AI  
-- 👻 Snap Academies 2025 Alumni @ Snap Inc.  
-- 🎮 Gamer & Tech Enthusiast  
-- ⚡ Fun fact: I love penguins 🐧  
-</p>
+- **🎓 CS Transfer Student @ El Camino College (Transferring Fall 2026)**  
+- **💻 SWE @ DermaMatch AI**  
+- **👻 Snap Academies 2025 Alumni @ Snap Inc.**  
+- **🎮 Gamer & Tech Enthusiast**  
+- **⚡ Fun fact: I love penguins 🐧**
+
 
 ---
 
